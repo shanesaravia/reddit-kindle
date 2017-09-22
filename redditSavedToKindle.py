@@ -13,7 +13,6 @@ from email.mime.application import MIMEApplication
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
-
 user = userCred.reddit['user']
 password = userCred.reddit['pass']
 client_id = userCred.reddit['client_id']
